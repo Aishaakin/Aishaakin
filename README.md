@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/aishaakin"><img src="https://api.daily.dev/devcards/3a9ca5d931b1471696e38e8c653b153b.png?r=v36" width="400" alt="Aisha's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/aishaakin"><img src="https://api.daily.dev/devcards/3a9ca5d931b1471696e38e8c653b153b.png?r=v36" width="400" alt="Aisha's Dev Card"/></a> 
+-->
