@@ -2,7 +2,7 @@
 
 🎓 Computer Science Expected Graduate Aug 2026 | 🔐 Aspiring SOC Analyst | 💻 Software Engineering (Web Dev)
 
-I'm transitioning into cybersecurity with a focus on SOC & Incident Response, while continuing to grow as a software engineer — front-end with React, and backend with Python.
+I'm transitioning into cybersecurity with a focus on SOC & Incident Response, while continuing to grow as a software engineer in front-end with React, and backend with Python.
 
 ---
 
